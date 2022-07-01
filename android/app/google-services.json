@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "535447956737",
+    "firebase_url": "https://gadgetstore-c4ba2-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "gadgetstore-c4ba2",
+    "storage_bucket": "gadgetstore-c4ba2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:535447956737:android:964a8ffda3861a101b7f00",
+        "android_client_info": {
+          "package_name": "com.example.gadgetstoreflutter"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "535447956737-k6gpniupvlc0povqad3g26e1pdiftfjt.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBhHCRHVIR44yGNmG6fEzoBnBOE0al1ZAE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "535447956737-k6gpniupvlc0povqad3g26e1pdiftfjt.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
